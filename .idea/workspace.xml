@@ -2,41 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c9dfb897-07c5-4032-a7db-099b2607debe" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/notes/S1/neural_networks/SDG/miniflow.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/notes/S1/neural_networks/SDG/nn.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/notes/S1/neural_networks/cnn/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/notes/S1/neural_networks/cnn/main.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/notes/S1/neural_networks/tensorflow/convolutional_Neural_Network/con.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/notes/S1/neural_networks/tensorflow/convolutional_Neural_Network/maxpooling" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/notes/S1/neural_networks/tensorflow/convolutional_Neural_Network/quiz_CNN_Weights_Dimension.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/notes/S1/neural_networks/tensorflow/convolutional_Neural_Network/quiz_pooling.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/notes/S1/neural_networks/tensorflow/dimensions/conv_output_size.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/notes/S1/neural_networks/tensorflow/dropout/quiz.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/notes/S1/neural_networks/tensorflow/hand_digits/MNIST_data/loading_tf_as_string" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/notes/S1/neural_networks/tensorflow/hand_digits/crossEntropy.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/notes/S1/neural_networks/tensorflow/hand_digits/load_trained_minst" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/notes/S1/neural_networks/tensorflow/hand_digits/minibatching" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/notes/S1/neural_networks/tensorflow/hand_digits/quiz.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/notes/S1/neural_networks/tensorflow/hand_digits/quiz_solution.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/notes/S1/neural_networks/tensorflow/hand_digits/sandbox.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/notes/S1/neural_networks/tensorflow/hand_digits/sandbox_solution.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/notes/S1/neural_networks/tensorflow/hand_digits/save_mnist" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/notes/S1/neural_networks/tensorflow/hand_digits/softmax.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/notes/S1/neural_networks/tensorflow/hand_digits/softmax_tf.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/notes/S1/neural_networks/tensorflow/mini-batching/quiz.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/notes/S1/neural_networks/tensorflow/mini-batching/sandbox" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/notes/S1/neural_networks/tensorflow/save_and_load/loading_variable.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/notes/S1/neural_networks/tensorflow/save_and_load/saving_variables.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/notes/S1/neural_networks/tensorflow/tensor_RELU/quiz.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tensorflow_lab/multilayer_perceptron/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tensorflow_lab/multilayer_perceptron/multilayer_perceptron.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/notes/finding_lane_lines/cannyEdgeDetection.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/notes/finding_lane_lines/exit-ramp.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/notes/finding_lane_lines/regionMasking.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/notes/finding_lane_lines/test.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CarND-LaneLines-P1" afterPath="$PROJECT_DIR$/CarND-LaneLines-P1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tensorflow_lab/CarND-LeNet-Lab" afterPath="$PROJECT_DIR$/tensorflow_lab/CarND-LeNet-Lab" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tensorflow_lab/CarND-TensorFlow-Lab" afterPath="$PROJECT_DIR$/tensorflow_lab/CarND-TensorFlow-Lab" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/sdc-udacity.iml" afterPath="$PROJECT_DIR$/.idea/sdc-udacity.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -52,66 +21,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="conv_output_size.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/notes/S1/neural_networks/tensorflow/dimensions/conv_output_size.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="58" lean-forward="false" selection-start-line="4" selection-start-column="56" selection-end-line="4" selection-end-column="58" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/notes/S1/neural_networks/cnn/main.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="21" column="47" lean-forward="false" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="con.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/notes/S1/neural_networks/tensorflow/convolutional_Neural_Network/con.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="21" column="68" lean-forward="false" selection-start-line="21" selection-start-column="60" selection-end-line="21" selection-end-column="68" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="quiz_CNN_Weights_Dimension.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/notes/S1/neural_networks/tensorflow/convolutional_Neural_Network/quiz_CNN_Weights_Dimension.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="23" column="51" lean-forward="false" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
-              <folding>
-                <element signature="e#102#125#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="quiz_pooling.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/notes/S1/neural_networks/tensorflow/convolutional_Neural_Network/quiz_pooling.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="23" column="20" lean-forward="false" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
-              <folding>
-                <element signature="e#106#129#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="maxpooling" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/notes/S1/neural_networks/tensorflow/convolutional_Neural_Network/maxpooling">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="33" column="41" lean-forward="true" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="41" />
-              <folding />
+      <file leaf-file-name="LeNet-Lab-Solution.ipynb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tensorflow_lab/CarND-LeNet-Lab/LeNet-Lab-Solution.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="12" />
             </state>
           </provider>
         </entry>
@@ -180,13 +94,16 @@
         <option value="$PROJECT_DIR$/notes/S1/neural_networks/tensorflow/quiz.py" />
         <option value="$PROJECT_DIR$/notes/S1/neural_networks/tensorflow/convolutional_Neural_Network/quiz.py" />
         <option value="$PROJECT_DIR$/notes/S1/neural_networks/tensorflow/convolutional_Neural_Network/quiz_pooling.py" />
+        <option value="$PROJECT_DIR$/tensorflow_lab/CarND-LeNet-Lab/LeNet-Lab.ipynb" />
+        <option value="$PROJECT_DIR$/tensorflow_lab/CarND-LeNet-Lab/LeNet-Lab-Solution.ipynb" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1280" />
-    <option name="height" value="709" />
+    <option name="x" value="2001" />
+    <option name="y" value="-1080" />
+    <option name="width" value="958" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -230,19 +147,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="notes" />
+              <option name="myItemId" value="tensorflow_lab" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="S1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="neural_networks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tensorflow" />
+              <option name="myItemId" value="CarND-LeNet-Lab" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -256,89 +165,15 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="notes" />
+              <option name="myItemId" value="tensorflow_lab" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="S1" />
+              <option name="myItemId" value="CarND-LeNet-Lab" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="neural_networks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tensorflow" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="convolutional_Neural_Network" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sdc-udacity" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sdc-udacity" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="notes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="S1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="neural_networks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sdc-udacity" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sdc-udacity" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="notes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="S1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="neural_networks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cnn" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sdc-udacity" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sdc-udacity" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="notes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="S1" />
+              <option name="myItemId" value="MNIST_data" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -358,7 +193,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.ipnb.configuration.IpnbConfigurable" />
+    <property name="FullScreen" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -633,17 +469,17 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="709" extended-state="0" />
+    <frame x="2001" y="-1080" width="958" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28435266" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43223053" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901135" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3277592" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35818475" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21881188" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3138614" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3128039" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -663,19 +499,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/finding_lane_lines/regionmasking" />
-    <entry file="file://$USER_HOME$/anaconda/envs/python3/lib/python3.5/site-packages/numpy/lib/polynomial.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6015">
-          <caret line="401" column="4" lean-forward="false" selection-start-line="401" selection-start-column="4" selection-end-line="401" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CarND-LaneLines-P1/line-segments-example.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/finding_lane_lines/test.jpg" />
     <entry file="file://$PROJECT_DIR$/CarND-LaneLines-P1/laneLines_thirdPass.jpg">
       <provider selected="true" editor-type-id="images">
@@ -950,14 +773,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/notes/S1/neural_networks/tensorflow/dimensions/conv_output_size.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="58" lean-forward="false" selection-start-line="4" selection-start-column="56" selection-end-line="4" selection-end-column="58" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/notes/S1/neural_networks/cnn/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -966,17 +781,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/tensorflow_lab/CarND-LeNet-Lab/lenet.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/notes/S1/neural_networks/tensorflow/convolutional_Neural_Network/con.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="21" column="68" lean-forward="false" selection-start-line="21" selection-start-column="60" selection-end-line="21" selection-end-column="68" />
+        <state relative-caret-position="113">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notes/S1/neural_networks/tensorflow/dimensions/conv_output_size.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="58" lean-forward="false" selection-start-line="4" selection-start-column="56" selection-end-line="4" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notes/S1/neural_networks/tensorflow/convolutional_Neural_Network/quiz_pooling.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="20" lean-forward="false" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+          <folding>
+            <element signature="e#106#129#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/notes/S1/neural_networks/tensorflow/convolutional_Neural_Network/maxpooling">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="41" lean-forward="false" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="41" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/notes/S1/neural_networks/tensorflow/convolutional_Neural_Network/quiz_CNN_Weights_Dimension.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
+        <state relative-caret-position="345">
           <caret line="23" column="51" lean-forward="false" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
           <folding>
             <element signature="e#102#125#0" expanded="true" />
@@ -984,21 +830,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/notes/S1/neural_networks/tensorflow/convolutional_Neural_Network/maxpooling">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="33" column="41" lean-forward="true" selection-start-line="33" selection-start-column="41" selection-end-line="33" selection-end-column="41" />
-          <folding />
+    <entry file="file://$PROJECT_DIR$/tensorflow_lab/CarND-LeNet-Lab/LeNet-Lab.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/notes/S1/neural_networks/tensorflow/convolutional_Neural_Network/quiz_pooling.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="23" column="20" lean-forward="false" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
-          <folding>
-            <element signature="e#106#129#0" expanded="true" />
-          </folding>
+    <entry file="file://$PROJECT_DIR$/tensorflow_lab/CarND-LeNet-Lab/LeNet-Lab-Solution.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="12" />
         </state>
       </provider>
     </entry>
